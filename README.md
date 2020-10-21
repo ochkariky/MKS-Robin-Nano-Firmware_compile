@@ -7,6 +7,7 @@ makerbase-mks/MKS-Robin-Nano-Firmware v2.0.2
 4. Add Preheat icon in mks_pic.
 5. Add switch type of autolevel in printer menu: AUTO_BED_LEVELING_BILINEAR/AUTO_BED_LEVELING_UBL
 6. add Linear Advance version 
+
 Default robin_nano35_cfg.txt - for my Sapphire Pro 3D printer. BLTouch is connected to Zmax. trailer on Zmin. 
 UBL autolevel use - now change in printer menu and robin_nano35_cfg.TXT
   AUTO_BED_LEVELING_BILINEAR=3
